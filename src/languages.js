@@ -76,25 +76,25 @@ export let translations = {
     nl: 'Breng de GamifiCase terug',
   },
   hintText_1a: {
-    nl: 'Scan de QR code en vergelijk de afbeelding die je ziet met die op het doek',
+    nl: 'Je ziet onder 5 kleuren staan. Welke kleurcombinaties van boven heb je nodig om de kleuren onder te krijgen?',
   },
   hintText_1b: {
-    nl: 'Zet de kaartjes op de goede volgorde',
+    nl: 'De eerste kleur is roze. Roze is rood en wit. Wanneer je rood en wit bij elkaar doet krijg je de A. Ga verder met groen.',
   },
   hintText_1c: {
     nl: 'De code is: AHIEA',
   },
   hintText_2a: {
-    nl: 'Gebruik de streepjescode op de achterkant van de kaart om de planeten te ontrafelen',
+    nl: 'Luister goed naar de gesproken tekst. Daarin hoor je de route die je moet lopen',
   },
   hintText_2b: {
-    nl: 'Tel de prijzen bij elkaar op. Gebruik de rode bolletjes als code voor het slot.',
+    nl: 'Heb je de straat gevonden? Streep op de achterkant van de kaart de letters weg van de straat in de tekst.',
   },
   hintText_2c: {
     nl: 'De Code is: 255',
   },
   hintText_3a: {
-    nl: 'Wie is er greenwasher en wie niet?',
+    nl: 'Op de kaart staat even omhoog',
   },
   hintText_3b: {
     nl: 'Trek de pieletjes van de greenwashers naar buiten.',
