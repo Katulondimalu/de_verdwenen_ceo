@@ -97,7 +97,7 @@ export let translations = {
     nl: 'Op de kaart staat even omhoog',
   },
   hintText_3b: {
-    nl: 'Trek de pieletjes van de greenwashers naar buiten.',
+    nl: 'Er is een Streepjescode die niet werkt voor de box. zet die streepjescode naast de kaart met even omhoog. Doe vervolgens de even getallen die overeen komen met de tekens op een van de boxjes omhoog. ',
   },
   hintText_3c: {
     nl: 'De coade is: omlaag, omhoog, omlaag, omhoog, omlaag, omlaag, omhoog, omhoog, omlaag, omhoog',
