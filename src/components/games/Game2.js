@@ -34,17 +34,6 @@ const Game2 = ({ onNext }) => {
         url={t('game2VideoUrl')}
       />
 
-<img
-        src={assets.images.common.WindowsIcon}
-        style={{
-          width: '200%',
-          padding: 16,
-          maxWidth: 350,
-          alignSelf: `center`,
-          transform: `translateY(10px)`,
-        }}
-      />
-
       <HintsDialog
         ref={dialog_1}
         hints={[
