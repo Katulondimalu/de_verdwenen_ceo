@@ -112,10 +112,10 @@ export let translations = {
     nl: 'De code is 620943, gebruk de magneet op het volgene doosje open te maken.',
   },
   hintText_5a: {
-    nl: 'Kleur de gevolgen van klimaatverandering in.',
+    nl: 'Bekijk de 1en en 0en. Zie je daar een patroon in?',
   },
   hintText_5b: {
-    nl: 'Je ziet na het inkleuren van de gevolgen van klimaatverandering een code staan. Vul die in bij het slotje.',
+    nl: 'Wanneer je de 1en volgt zie je een patroon bestaand uit 4 cijfers.',
   },
   hintText_5c: {
     nl: 'De code van het volgende slot is 7034',
