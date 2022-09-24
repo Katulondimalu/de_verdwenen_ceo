@@ -173,22 +173,22 @@ export let translations = {
     nl: 'GAME 6',
   },
   game1VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Spaceship%20Earth%2FSEgame-1.mp3?alt=media&token=db192fdf-d7c2-47e7-94fc-592aac2fd1c8',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%201.mp3?alt=media&token=81a08a9f-d4e8-45c1-93c8-07aad7559b86',
   },
   game2VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Spaceship%20Earth%2FSEgame-2.mp3?alt=media&token=573a1137-7560-4ea5-ab3a-523ee282925a',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%202.mp3?alt=media&token=0d0e3815-afe4-495c-a148-1662c4aa7601',
   },
   game3VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Spaceship%20Earth%2FSEgame-3.mp3?alt=media&token=f61ed241-2e84-4e97-9cd1-b349bde69cf2',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%203.mp3?alt=media&token=088f48cd-5ff0-4442-a75b-5c7e271e2deb',
   },
   game4VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Spaceship%20Earth%2FSEgame-4.mp3?alt=media&token=c7e629fb-4a2c-4009-8202-1a5d593ff676',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%204.mp3?alt=media&token=bf972a90-58a3-4213-91e2-6015f1caf59f',
   },
   game5VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Spaceship%20Earth%2FSEgame-5.mp3?alt=media&token=1eacfb4a-c4ee-4c04-9da3-98b1241c0bc1',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%205.mp3?alt=media&token=1b3e24ef-9f53-4da9-bf10-e4e1b6b6bbe8',
   },
   game6VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Spaceship%20Earth%2FSEgame-6.mp3?alt=media&token=db083c92-5cfc-4ecf-9c2c-d548fbf23247',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%206.mp3?alt=media&token=84f8471e-3906-41da-b884-c749bfe9da18',
   },
   gameeindeVideoUrl: {
     nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Nederlands%20klein%2Fspel_6%20(720p).mp4?alt=media&token=f59585d7-e76d-4a8a-9585-e4b3aa974d71',
