@@ -74,6 +74,9 @@ const Game2 = ({ onNext }) => {
           },
         ]}
       />
+      
+   Ga de eerste links en dan meteen rechts. Vervolgens ga je de tweede straat
+        rechts. Loop rechtdoor tot de kroeg links ligt, sla hier rechtsaf. Sla de tweede straat linksaf.
 
       <div style={{ textAlign: 'center' }}>{t('game2ClueText')}</div>
       <BarcodeScanner
