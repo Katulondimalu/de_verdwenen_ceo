@@ -75,8 +75,10 @@ const Game2 = ({ onNext }) => {
         ]}
       />
       
-   Ga de eerste links en dan meteen rechts. Vervolgens ga je de tweede straat
-        rechts. Loop rechtdoor tot de kroeg links ligt, sla hier rechtsaf. Sla de tweede straat linksaf.
+      Loop vanaf het kruispunt van de kerk en de Tulpstraat richting de apo- theek. 
+      Ga de eerste links en dan meteen rechts. Vervolgens ga je de tweede straat rechts. 
+      Loop rechtdoor tot de kroeg links ligt, sla hier rechtsaf. Sla de tweede straat linksaf. 
+      In deze straat is het nieuwe kantoor.
 
       <div style={{ textAlign: 'center' }}>{t('game2ClueText')}</div>
       <BarcodeScanner
