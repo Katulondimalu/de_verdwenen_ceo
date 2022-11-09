@@ -75,7 +75,7 @@ const Game2 = ({ onNext }) => {
         ]}
       />
       
-      Loop vanaf het kruispunt van de kerk en de Tulpstraat richting de apo- theek. 
+      Loop vanaf het kruispunt van de kerk en de Tulpstraat richting de apotheek. 
       Ga de eerste links en dan meteen rechts. Vervolgens ga je de tweede straat rechts. 
       Loop rechtdoor tot de kroeg links ligt, sla hier rechtsaf. Sla de tweede straat linksaf. 
       In deze straat is het nieuwe kantoor.
