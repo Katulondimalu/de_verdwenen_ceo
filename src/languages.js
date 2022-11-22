@@ -2,28 +2,28 @@ import { with_translation } from './utils/use';
 
 export let translations = {
   'The Box': {
-    nl: 'De Verdwenen CEO',
+    nl: 'The Lost CEO',
   },
   'The box of': {
     nl: 'De kist van',
   },
   '#workhardplaysmart': {
-    nl: 'De Verdwenen CEO',
+    nl: 'The Lost CEO',
   },
   Enter: {
-    nl: 'Verder',
+    nl: 'Enter',
   },
   'Team Name': {
-    nl: 'Team Naam',
+    nl: 'Team Name',
   },
   'Scan the qr code below to play on your own phone.': {
     nl: "Medespelers kunnen deze  QR code scannen om geluidsfragmenten mee te luisteren op hun eigen telefoon. Wanneer iedereen de QR code heeft gescand kun je het spel starten. LET OP: je hebt vanaf dan 20 minuten de de game te spelen.",
   },
   'Choose a team name': {
-    nl: 'Kies een teamnaam',
+    nl: 'Choose a team name',
   },
   'Start Game': {
-    nl: 'Start Spel',
+    nl: 'Start Game',
   },
   'Share game': {
     nl: 'Deel spel',
@@ -38,13 +38,13 @@ export let translations = {
     nl: 'Als je geen ster aan de hemel kunt zijn, wees dan een lampje in je huis.',
   },
   'Watch the video to continue to the next step.': {
-    nl: 'Luister naar het geluidsfragment om door te gaan naar de volgende stap.',
+    nl: 'Listen to the message to continue to the next step.',
   },
   'Skip video': {
-    nl: 'geluidsfragment overslaan',
+    nl: 'Skip Instructions',
   },
   Video: {
-    nl: 'geluidsfragment',
+    nl: 'Sound clip',
   },
   Hints: {
     nl: 'Hints',
@@ -53,7 +53,7 @@ export let translations = {
     nl: 'Klik om de hint te ontgrendelen, dat zal',
   },
   minutes: {
-    nl: 'minuten',
+    nl: 'minutes',
   },
   'to your score.': {
     nl: 'aan je score toevoegen.',
@@ -75,62 +75,63 @@ export let translations = {
   'Bring back the box': {
     nl: 'Breng de GamifiCase terug',
   },
-  hintText_1a: {
-    nl: 'Je ziet onder 5 kleuren staan. Welke kleurcombinaties van boven heb je nodig om de kleuren onder te krijgen?',
+  tText_1a: {
+    nl: 'You see 5 colours below. Which colour combinations from above do you need to get the colours below?',
   },
   hintText_1b: {
-    nl: 'De eerste kleur is roze. Roze is rood en wit. Wanneer je rood en wit bij elkaar doet krijg je de A. Ga verder met groen.',
+    nl: 'The first colour is pink. Pink is red and white. When you put red and white together you get the A. Continue with green.',
   },
   hintText_1c: {
-    nl: 'De code is: AHIEA',
+    nl: 'The code is AHIEA',
   },
   hintText_2a: {
-    nl: 'Luister goed naar de gesproken tekst. Daarin hoor je de route die je moet lopen',
+    nl: 'Read the text carefully. There you read the route how you must walk.',
   },
   hintText_2b: {
-    nl: 'Heb je de straat gevonden? Streep op de achterkant van de kaart de letters weg van de straat in de tekst.',
+    nl: 'Have you found the street? Under the map, cross out the letters from the street in the text.',
   },
   hintText_2c: {
-    nl: 'De Code is: 255',
+    nl: 'The Code is: 255',
   },
   hintText_3a: {
-    nl: 'Op de kaart staat even omhoog',
+    nl: 'The card reads: equal up',
   },
   hintText_3b: {
-    nl: 'Er is een Streepjescode die niet werkt voor de box. zet die streepjescode naast de kaart met even omhoog. Doe vervolgens de even getallen die overeen komen met de tekens op een van de boxjes omhoog. ',
+    nl: 'Look at the barcode in the app. Put that barcode next to the card with equal up. Then put up the equal numbers that correspond to the characters on one of the boxes.',
   },
   hintText_3c: {
-    nl: 'De coade is: omlaag, omhoog, omlaag, omhoog, omlaag, omlaag, omhoog, omhoog, omlaag, omhoog',
+    nl: 'The code is: down, up, down, up, down, down, up, up, down, up',
   },
   hintText_4a: {
-    nl: 'Zet de juiste mensen op de juiste plaats',
+    nl: 'Put the right people in the right place',
   },
   hintText_4b: {
-    nl: 'Leg de kaartjes ook daadwerkelijk op de kaart, dit maakt het makkelijker.',
+    nl: 'Actually put the cards on the map, this makes it easier.',
   },
   hintText_4c: {
-    nl: 'De code is 620943, gebruk de magneet op het volgene doosje open te maken.',
+    nl: ' The code is 620943, use the magnet to open the following box.',
   },
   hintText_5a: {
-    nl: 'Bekijk de 1en en 0en. Zie je daar een patroon in?',
+    nl: 'Look at the 1s and 0s. Do you see a pattern in them?',
   },
   hintText_5b: {
-    nl: 'Wanneer je de 1en volgt zie je een patroon bestaand uit 4 cijfers.',
+    nl: 'When you follow the 1s you see a pattern consisting of four digits.',
   },
   hintText_5c: {
-    nl: 'De code van het volgende slot is 7034',
+    nl: 'The code of the next lock is 7034',
   },
   hintText_6a: {
-    nl: 'Kijk op het kistje naar de afbeelding.',
+    nl: 'Look at the picture on the box.',
   },
   hintText_6b: {
-    nl: 'Start met de hoeken van 45 graden, werk vanuit daar verder',
+    nl: 'Start with the 45-degree angles, work from there',
   },
   hintText_6c: {
-    nl: 'De code is van lings naar rechts 9268',
+    nl: 'The code is from left to right 9268',
   },
+
   Continue: {
-    nl: 'Verder',
+    nl: 'Continue',
   },
   'The code of the next box is:': {
     nl: 'De code van het volgende vak is:',
@@ -139,7 +140,7 @@ export let translations = {
     nl: 'Opruim instructies:',
   },
   CleanUpText1: {
-    nl: 'Leg de puzzels terug in de GamifiCase en breng de case terug naar de service balie',
+    nl: 'A task for the real warriors. Can you manage to get the items all back in the box and get the box closed again? We would love you for that! 🥰',
   },
   'Snap a picture': {
     nl: 'Maak een foto',
@@ -173,22 +174,22 @@ export let translations = {
     nl: 'GAME 6',
   },
   game1VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%201.mp3?alt=media&token=81a08a9f-d4e8-45c1-93c8-07aad7559b86',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-001.mp3?alt=media&token=c6437228-a669-408d-843e-f7d19ba5fdd2',
   },
   game2VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%202.mp3?alt=media&token=0d0e3815-afe4-495c-a148-1662c4aa7601',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-002.mp3?alt=media&token=9731a1ae-bde4-48e7-9527-d81182ca6801',
   },
   game3VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%203.mp3?alt=media&token=088f48cd-5ff0-4442-a75b-5c7e271e2deb',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-003.mp3?alt=media&token=671a27c1-c652-4e05-bfac-10c251c7c4e8',
   },
   game4VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%204.mp3?alt=media&token=bf972a90-58a3-4213-91e2-6015f1caf59f',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-004.mp3?alt=media&token=b8097173-ef0e-4c8e-81cc-3c54eac47477',
   },
   game5VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%205.mp3?alt=media&token=1b3e24ef-9f53-4da9-bf10-e4e1b6b6bbe8',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-005.mp3?alt=media&token=dd9352a3-a386-45d8-bd34-28c10009b810',
   },
   game6VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%206.mp3?alt=media&token=84f8471e-3906-41da-b884-c749bfe9da18',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20The%20Lost%20CEO%2FVanishedCEO-006.mp3?alt=media&token=4e28d264-4c94-43ce-a6e3-c12bf9c3d053',
   },
   gameeindeVideoUrl: {
     nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Nederlands%20klein%2Fspel_6%20(720p).mp4?alt=media&token=f59585d7-e76d-4a8a-9585-e4b3aa974d71',
@@ -202,19 +203,19 @@ export let translations = {
       nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Mediamarkt%2FVERRASSING%20VAN%20STICHTING%20BIO%20(1).mp4?alt=media&token=b5b795e0-a72f-4e49-a1a3-617daa6ce902',
     },
   'Scan the correct QR code to continue': {
-    nl: 'Scan de juiste streepjescode om verder te gaan',
+    nl: 'Scan the correct code to continue',
   },
   Step: {
     nl: 'Stap',
   },
   'You finished in': {
-    nl: 'Je bent geeïndigd in',
+    nl: 'You finished in',
   },
   and: {
     nl: 'en',
   },
   'without using any hints!': {
-    nl: 'zonder hints te gebruiken!',
+    nl: 'without using any hints!',
   },
   with: {
     nl: 'met',
@@ -223,7 +224,7 @@ export let translations = {
     nl: 'straf voor het gebruik van hints!',
   },
   'Scan the right bar code or scan the number': {
-    nl: 'Scan de juiste streepjescode of voer het nummer in van het juiste product',
+    nl: 'Scan the correct code or fill in the code to continue',
   },
   'Wrong code': {
     nl: 'Foutieve code',
@@ -235,7 +236,7 @@ export let translations = {
     nl: 'Camera toegang geweigerd',
   },
   Submit: {
-    nl: 'Verzenden',
+    nl: 'Submit',
   },
   'write barcode...': {
     nl: 'streepjescode invullen...',
@@ -256,7 +257,7 @@ export let translations = {
     nl: 'Je tijd ',
   },
   Skip: {
-    nl: 'Overslaan',
+    nl: 'Skip',
   },
   'something is wrong!': {
     nl: 'er is iets fout!',
