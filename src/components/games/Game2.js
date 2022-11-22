@@ -51,18 +51,7 @@ const Game2 = ({ onNext }) => {
             onBuy: () => {
               set(child(room_ref, 'bought_hints/hint_2b'), true);
             },
-            text: (
-              <div>
-                {t('hintText_2b')}
-                <Whitespace height={8} />
-                <img
-                  style={{ width: '100%', filter: 'invert(1)' }}
-                  // @ts-ignore
-                  src={assets.images.hints.hint2b}
-                  alt='icon'
-                />
-              </div>
-            ),
+            text: t('hintText_2b')
           },
           {
             bought: room?.bought_hints?.hint_2c,

@@ -97,7 +97,7 @@ export let translations = {
     nl: 'The card reads: even up',
   },
   hintText_3b: {
-    nl: 'Look at the barcode in the app. Put that barcode next to the card with equal up. Then put up the equal numbers that correspond to the characters on one of the boxes.',
+    nl: 'Look at the barcode in the app. Put that barcode next to the card with even up. Then put up the even numbers that correspond to the characters on one of the boxes.',
   },
   hintText_3c: {
     nl: 'The code is: down, up, down, up, down, down, up, up, down, up',
