@@ -2,13 +2,13 @@ import { with_translation } from './utils/use';
 
 export let translations = {
   'The Box': {
-    nl: 'De Verdwenen CEO',
+    nl: 'The Lost CEO',
   },
   'The box of': {
     nl: 'De kist van',
   },
   '#workhardplaysmart': {
-    nl: 'De Verdwenen CEO',
+    nl: 'The Lost CEO',
   },
   Enter: {
     nl: 'Verder',
@@ -50,7 +50,7 @@ export let translations = {
     nl: 'Hints',
   },
   'Click to unlock hint, will add': {
-    nl: 'Klik om de hint te ontgrendelen, dat zal',
+    nl: 'Click to unlock hint, will add',
   },
   minutes: {
     nl: 'minuten',
