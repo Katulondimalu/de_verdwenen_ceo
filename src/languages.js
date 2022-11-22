@@ -50,7 +50,7 @@ export let translations = {
     nl: 'Hints',
   },
   'Click to unlock hint, will add': {
-    nl: 'Klik om de hint te ontgrendelen, dat zal',
+    nl: 'Click to unlock hint, will add',
   },
   minutes: {
     nl: 'minutes',
@@ -75,7 +75,7 @@ export let translations = {
   'Bring back the box': {
     nl: 'Breng de GamifiCase terug',
   },
-  tText_1a: {
+  hintText_1a: {
     nl: 'You see 5 colours below. Which colour combinations from above do you need to get the colours below?',
   },
   hintText_1b: {
@@ -94,7 +94,7 @@ export let translations = {
     nl: 'The Code is: 255',
   },
   hintText_3a: {
-    nl: 'The card reads: equal up',
+    nl: 'The card reads: even up',
   },
   hintText_3b: {
     nl: 'Look at the barcode in the app. Put that barcode next to the card with equal up. Then put up the equal numbers that correspond to the characters on one of the boxes.',
